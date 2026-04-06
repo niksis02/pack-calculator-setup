@@ -42,7 +42,7 @@ Docker Compose then builds both images from the local source directories and wir
 
 ## Live
 
-The application is deployed and accessible at **https://d278wsrjbdo0nx.cloudfront.net/**
+The application is deployed and accessible at **http://pack-calculator-frontend-alb-1042378341.eu-central-1.elb.amazonaws.com**
 
 ## URLs (local)
 
